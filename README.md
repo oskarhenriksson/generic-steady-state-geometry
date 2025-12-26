@@ -1,5 +1,5 @@
 #  The generic geometry of steady state varieties
-This repository contains files for the manuscript "The generic geometry of steady state varieties"by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero.
+This repository contains files for the manuscript [The generic geometry of steady state varieties](https://arxiv.org/abs/2412.17798) by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero.
 
 ## File descriptions
 The repository contains the following files:
