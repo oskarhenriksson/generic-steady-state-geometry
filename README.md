@@ -29,7 +29,7 @@ We begin by loading the functions:
 include("functions.jl");
 ```
 
-Consider the following isocitrate dehydrogenase that appears in Shinar–Feinberg's work on absolute concentration robustness, entered in catalyst format.
+Consider the following isocitrate dehydrogenase that appears in Shinar–Feinberg's work on absolute concentration robustness, entered in Catalyst format.
 
 ```julia
 rn = @reaction_network begin 
