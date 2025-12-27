@@ -1,4 +1,6 @@
 #  The generic geometry of steady state varieties
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18063244.svg)](https://doi.org/10.5281/zenodo.18063244)
+
 This repository contains files for the manuscript [The generic geometry of steady state varieties](https://arxiv.org/abs/2412.17798) by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero.
 
 ## File descriptions
